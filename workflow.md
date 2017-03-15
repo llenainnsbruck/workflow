@@ -36,3 +36,5 @@ für Firefox aktivieren
 	
 ## GitGui
 1. GitGui Rescan, Stage Changed, Sign Off -> kurze Beschreibung eingeben, Commit, Pushen	
+
+## github.com öffnen und md anschauen
